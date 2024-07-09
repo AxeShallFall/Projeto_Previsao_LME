@@ -1,7 +1,10 @@
-# Projeto Previsão LME 
 
-• Criação de modelo preditivo para analise dos preços das sucatas (chumbo e cobre) com base no histórico do London Metal Exchange e Banco de Portugal.
+LME Forecasting Project
 
-• Os valores resultantes aplicados para gerar um dashboard para previsão de venda de materiais (cabos) que contêm percentagens variáveis desses constituintes.
+• Creation of a predictive model to analyze the prices of scrap (lead and copper) based on the history of the London Metal Exchange and Banco de Portugal.
 
-• Modelo preditivo a 3 meses
+• The resulting values applied to generate a dashboard for forecasting the sale of materials (cables) that contain variable percentages of these constituents.
+
+• 3-month predictive model
+
+Hugo ! Raquel ! Thayna
