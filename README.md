@@ -1,3 +1,4 @@
+
 LME Forecasting Project
 
 • Creation of a predictive model to analyze the prices of scrap (lead and copper) based on the history of the London Metal Exchange and Banco de Portugal.
