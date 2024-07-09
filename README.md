@@ -5,3 +5,5 @@ LME Forecasting Project
 • The resulting values applied to generate a dashboard for forecasting the sale of materials (cables) that contain variable percentages of these constituents.
 
 • 3-month predictive model
+
+Hugo ! Raquel ! Thayna
